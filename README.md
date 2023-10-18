@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **tolgaboroglu@gmail.com**
 
-- 📄 Know about my experiences [app.resumai.com/s/22q9D6gCL2GzFTxVsiMv](app.resumai.com/s/22q9D6gCL2GzFTxVsiMv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
