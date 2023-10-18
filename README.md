@@ -1,8 +1,8 @@
 <!-- Greeting -->
 # Greetings, I'm Tolga! :wave:
 
-[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tolgaboroglu/)
-[![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tolgaboroglu@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-tolgaboroglu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tolgaboroglu/)
+[![Gmail](https://img.shields.io/badge/-tolgaboroglu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tolgaboroglu@gmail.com)
 
 <!--Introduction -->
 Data Scientist and Machine Learning Developer with 3 years of experience in building statistical and predictive machine learning models, NLP (Natural Language Processing), analyzing noisy datasets, and designing decision support tools and services. Skilled in SQL, Python, and scientific computing languages, with a passion for extracting insights from data and driving data-driven decision-making processes. 
